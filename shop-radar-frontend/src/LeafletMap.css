@@ -1,0 +1,22 @@
+.map-container {
+    display: flex;
+  }
+  
+  .form-container {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .map {
+    flex: 1;
+    height: 400px; /* You can adjust the height as needed */
+  }
+  
+  /* Custom marker styling */
+  .custom-marker {
+    background-color: red;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+  }
+  
